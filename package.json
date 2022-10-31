@@ -1,16 +1,16 @@
 {
-"name": "pic5678mobile",
-"theme": "pic5678 mobile",
-"version": "9.5.7",
-"description": "pic5678 mobile ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
-"keywords": [
-"pic5678 mobile",
-"pic5678 mobile เครดิตฟรี",
-"pic5678 mobile ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/pic5678mobile",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "pic5678mobile",
+  "theme": "pic5678 mobile",
+  "version": "9.6.0",
+  "description": "pic5678 mobile ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
+  "keywords": [
+    "pic5678 mobile",
+    "pic5678 mobile เครดิตฟรี",
+    "pic5678 mobile ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/pic5678mobile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
